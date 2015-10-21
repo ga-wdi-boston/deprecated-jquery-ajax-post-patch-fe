@@ -1,5 +1,5 @@
 # DEPRECATED
-Please see (ga-wdi-boston/jquery-ttt-client)[https://github.com/ga-wdi-boston/jquery-ttt-client] for the latest updates or to file an issue.
+Please see [ga-wdi-boston/jquery-ttt-client](https://github.com/ga-wdi-boston/jquery-ttt-client) for the latest updates or to file an issue.
 
 ![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
